@@ -35,3 +35,11 @@ figcaption{
     font-size: 30px;
 }
 
+footer {
+    background-color: black;
+}
+
+li {
+    color: red;
+    list-style: none;
+}
